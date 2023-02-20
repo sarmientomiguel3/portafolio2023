@@ -1,8 +1,8 @@
 {
-  "homepage": "https://github.com/sarmientomiguel3/portafolio2023",
   "name": "Miguel Sarmiento FullStack",
+  "homepage": "https://github.com/sarmientomiguel3/portafolio2023/",
+  "version": "0.1.0",
   "author": "Miguel Sarmiento",
-  "version": "4.2.0",
   "description": "Javascript Version",
   "private": true,
   "scripts": {
